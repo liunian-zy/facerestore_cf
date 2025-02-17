@@ -14,7 +14,8 @@ tb-nightly
 tqdm
 yapf
 lpips
-gdown # supports downloading the large file from Google Drive
+# supports downloading the large file from Google Drive
+gdown
 # cmake
 # dlib
 # conda install -c conda-forge dlib
